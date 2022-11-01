@@ -108,10 +108,7 @@ button:hover{
   width: 100px;
   background-repeat: no-repeat;
 }
-/* .pic:hover{
-  background: linear-gradient(0deg, rgba(52, 64, 84, 0.75), rgba(52, 64, 84, 0.75)), url(.jpg);
-border-radius: 275px;
-} */
+
 .slack{
   display: flex;
   justify-content: center;
@@ -138,15 +135,7 @@ background-repeat: no-repeat;
   width: 150px;
   /* background-color: red; */
 }
-/* @media screen and(max-width: 740px) {
-  .twit{
-     margin: 0 auto;
-  height: 20px;
-  width: 100px;
-  background-color: red;
-  } */
-  
-/* } */
+
 @media screen and (max-width: 980px) {
   .share a{
     background-image: url(./images/ellipsis.png);
@@ -169,7 +158,6 @@ background-repeat: no-repeat;
   }
   p{
     position: relative;
-    bottom: 35px;
   }
   .zuri{
     width: 30%;
