@@ -6,7 +6,7 @@ function App() {
           <div className="div0">
             <div className="pic"></div>
             <div className="share" title="share link">
-              <a href="https://twitter.com" hidden><br/></a>
+              <a href="https://twitter.com"><br/></a>
             </div>
             <div className="twit">
               <p id="twitter">iamchelsofia</p>
