@@ -6,7 +6,7 @@ function App() {
           <div className="div0">
             <div className="pic"></div>
             <div className="share" title="share link">
-              <a href="/"></a>
+              <a href="https://twitter.com" hidden><br/></a>
             </div>
             <div className="twit">
               <p id="twitter">iamchelsofia</p>
@@ -38,7 +38,7 @@ function App() {
           </button>
           <div className="slack">
             <div className="github">
-              <a href="https://github.com/Chelsofia"></a>
+              <a href="https://github.com/Chelsofia" hidden>k</a>
             </div>
             <div className="slackk"></div>
           </div>
