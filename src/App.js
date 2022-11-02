@@ -4,7 +4,8 @@ function App() {
       <div className="container">
         <div className="div">
           <div className="div0">
-            <div className="pic"></div>
+            <div className="pic" id=
+    "profile_img"></div>
             <div className="share" title="share link">
               <a href="/"><br/></a>
             </div>
