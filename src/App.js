@@ -5,7 +5,7 @@ function App() {
         <div className="div">
           <div className="div0">
             <div className="pic" id=
-    "profile_img"></div>
+    "profile__img"></div>
             <div className="share" title="share link">
               <a href="/"><br/></a>
             </div>
@@ -20,16 +20,16 @@ function App() {
               Twitter Link
             </a>
           </button>
-          <button type="button" className="div1" id="btn_zuri">
+          <button type="button" className="div1" id="btn__zuri">
             <a href="https://training.zuri.team/">Zuri Team</a>
           </button>
           <button className="div1" id="books">
             <a href="http://books.zuri.team ">Zuri Books</a>
           </button>
-          <button className="div1" id="book_python">
+          <button className="div1" id="book__python">
             <a href="https://books.zuri.team">Python Books</a>
           </button>
-          <button className="div1" id="book_design">
+          <button className="div1" id="book__design">
             <a href="https://background.zuri.team">
               Background Check for Coders
             </a>
