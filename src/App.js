@@ -29,13 +29,15 @@ function App() {
           <button className="div1" id="book__python">
             <a href="https://books.zuri.team">Python Books</a>
           </button>
-          <button className="div1" id="book__design">
+          <button className="div1" id="pitch">
             <a href="https://background.zuri.team">
               Background Check for Coders
             </a>
           </button>
           <button className="div1">
-            <a href="https://books.zuri.team/design-rules">Design Books</a>
+            <a href="https://books.zuri.team/design-rules" id ="book__design
+
+>Design Books</a>
           </button>
           <div className="slack">
             <div className="github">
